@@ -1,0 +1,9 @@
+.tableWorkers {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &__title {
+    width: 100%;
+  }
+}

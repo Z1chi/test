@@ -1,0 +1,50 @@
+.customInput {
+  width: 100%;
+  position: relative;
+
+  &--required {
+    border: 1px solid #b21;
+    border-radius: 4px;
+  }
+
+  &__field {
+    display: flex;
+    align-items: center;
+    background: #2D313D;
+    border-radius: 4px;
+  }
+
+  &__input {
+    width: 100%;
+    height: 40px;
+    background: #2D313D;
+    border-radius: 4px;
+    padding: 0 10px;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #2D313D;
+    color: #898A98;
+    transition: all ease 0.3s;
+
+    &:hover {
+      background: #3A3F4F;
+
+    }
+
+    &:focus {
+      color: #fff;
+      text-decoration: none;
+      outline: none;
+      border: 1px solid #219FE6
+    }
+
+    &:disabled {
+      background: #3F3F3F;
+
+    }
+  }
+
+
+
+
+}

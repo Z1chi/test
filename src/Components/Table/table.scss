@@ -1,0 +1,22 @@
+.table {
+  border-radius: 4px;
+  width: 100%;
+  &__data {
+    background-color: #131826;
+    overflow-x: auto;
+    overflow-y: auto;
+    max-height: 100vh;
+  }
+
+  &__head {
+    border-bottom: 1px solid #282D3A;
+  }
+
+  &__row {
+    border-bottom: 1px solid #282D3A;
+  }
+
+  &__load {
+    margin-top: 15px;
+  }
+}
