@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c1f5459-12ab-4427-89ae-be4c0e341eb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Button/button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Checkbox/Checkbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Checkbox/checkbox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Checkbox/selected.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Input/input.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Loader/Loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Loader/loader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Select/Select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Common/Select/select.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Form/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Form/form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Modal/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Modal/modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Sidebar/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Sidebar/sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableCell/TableCell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableCell/tableCell.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableEmpty/TableEmpty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableEmpty/tableEmpty.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableHead/TableHead.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableHead/tableHead.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableHeadItem/TableHeadItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableHeadItem/tableHeadItem.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableRow/TableRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/TableRow/tableRow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Table/table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Template/TableCompany/TableCompany.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Template/TableCompany/tableCompany.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Template/TableWorkers/TableWorkers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Template/TableWorkers/tableWorkers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock/mockTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/tableCompanySlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/tableWorkersSlice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,12 +69,26 @@
       <workItem from="1671365091146" duration="14875000" />
       <workItem from="1671388144305" duration="15952000" />
       <workItem from="1671448137631" duration="41117000" />
-      <workItem from="1671524387598" duration="275000" />
+      <workItem from="1671524387598" duration="1933000" />
+      <workItem from="1671526726092" duration="1076000" />
+      <workItem from="1671527820372" duration="239000" />
     </task>
+    <task id="LOCAL-00001" summary="Таблицы, добавление, редактирование, удаление, удаление выделенного.">
+      <created>1671524924439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671524924439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Таблицы, добавление, редактирование, удаление, удаление выделенного." />
+    <option name="LAST_COMMIT_MESSAGE" value="Таблицы, добавление, редактирование, удаление, удаление выделенного." />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="181" width="800" height="671" key="#ESLint" timestamp="1671294406686">
@@ -133,10 +103,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="693" y="269" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671375945131" />
-    <state x="561" y="118" width="788" height="796" key="CommitChangelistDialog2" timestamp="1671524816158">
+    <state x="561" y="118" width="788" height="796" key="CommitChangelistDialog2" timestamp="1671524924170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="561" y="118" width="788" height="796" key="CommitChangelistDialog2/0.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671524816158" />
+    <state x="561" y="118" width="788" height="796" key="CommitChangelistDialog2/0.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671524924170" />
     <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl" timestamp="1671486080118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -157,6 +127,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671299466029" />
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1671527929861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671527929861" />
     <state x="624" y="238" key="run.anything.popup" timestamp="1671472733814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
